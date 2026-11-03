@@ -1,3 +1,1 @@
-# ma1805-mini-portfolio
-
-Remus Tifrea
+ma1805-mini-portfolio
